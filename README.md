@@ -50,16 +50,16 @@ I'm currently expanding my skills in Flutter and Python while continuing to hone
 ### 🏆 Certifications
 <p align="center">
   <a href="./1728488332794.jpg">
-    <img src="./1728488332794.jpg" width="150" />
+    <img src="./1728488332794.jpg" width="300" />
   </a>
   <a href="./1724330160286.jpg">
-    <img src="./1724330160286.jpg" width="150" />
+    <img src="./1724330160286.jpg" width="300" />
   </a>
   <a href="./1710096621713.jpg">
-    <img src="./1710096621713.jpg" width="150" />
+    <img src="./1710096621713.jpg" width="300" />
   </a>
   <a href="./1705646263761.jpg">
-    <img src="./1705646263761.jpg" width="150" />
+    <img src="./1705646263761.jpg" width="300" />
   </a>
   <!-- Add more certificates as needed -->
 </p>
