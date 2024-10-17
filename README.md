@@ -5,9 +5,18 @@
 I'm a dedicated Computer Science and Engineering student at <b>Daffodil International University (DIU)</b>, Bangladesh, with a strong passion for programming and problem-solving. My journey in the world of coding began in 2017, and I've been continuously expanding my skills ever since.
 
 ### 🎓 Education
+- **Bachelor in Computer Science and Engineering**
+  - <div style="background-color: white;">  
+    <a href="./diulogoside.png">
+    <img src="./diulogoside.png" width="300" />
+    </a>
+  </div>
+  - 
+  - GPA: 3.89/4.00
 - **Diploma in Computer Engineering**
   - Northern Institute of Science and Technology
   - GPA: 3.89/4.00
+
 
 - **Learn C++ Programming - Beginner to Advance- Deep Dive in C++** (30.5 hours)
 - **Learn JAVA Programming - Beginner to Master** (61.5 hours)
