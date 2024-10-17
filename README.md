@@ -48,7 +48,18 @@ I'm currently expanding my skills in Flutter and Python while continuing to hone
 💡 I'm always eager to collaborate on interesting projects and learn new technologies. Feel free to reach out if you'd like to connect or work together!
 
 ### 🏆 Certifications
-![Data Structures & Algorithms](./1728488332794.jpg)
-![Git & GitHub](./1724330160286.jpg)
-![Java Programming](./1710096621713.jpg)
-![C++ Programming](,/1705646263761.jpg)
+<p align="center">
+  <a href="./1728488332794.jpg">
+    <img src="./1728488332794.jpg" width="150" />
+  </a>
+  <a href="./1724330160286.jpg">
+    <img src="./1724330160286.jpg" width="150" />
+  </a>
+  <a href="./1710096621713.jpg">
+    <img src="./1710096621713.jpg" width="150" />
+  </a>
+  <a href="./1705646263761.jpg">
+    <img src="./1705646263761.jpg" width="150" />
+  </a>
+  <!-- Add more certificates as needed -->
+</p>
