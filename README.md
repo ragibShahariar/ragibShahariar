@@ -2,7 +2,7 @@
 
 ## 💻 Passionate Programmer | 🎓 Computer Science Student | 🐧 Linux Enthusiast
 
-I'm a dedicated Computer Science and Engineering student at Daffodil International University, Bangladesh, with a strong passion for programming and problem-solving. My journey in the world of coding began in 2017, and I've been continuously expanding my skills ever since.
+I'm a dedicated Computer Science and Engineering student at <b>Daffodil International University (DIU)</b>, Bangladesh, with a strong passion for programming and problem-solving. My journey in the world of coding began in 2017, and I've been continuously expanding my skills ever since.
 
 ### 🎓 Education
 - **Diploma in Computer Engineering**
