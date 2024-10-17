@@ -10,10 +10,10 @@ I'm a dedicated Computer Science and Engineering student at Daffodil Internation
   - GPA: 3.89/4.00
 
 ### 🏆 Certifications
-![Data Structures & Algorithms](./1728488332794.jpg)
-![Git & GitHub](./1724330160286.jpg)
-![Java Programming](./1710096621713.jpg)
-![C++ Programming](,/1705646263761.jpg)
+![Data Structures & Algorithms](./1728488332794.jpg)![Git & GitHub](./1724330160286.jpg)
+![Java Programming](./1710096621713.jpg)![C++ Programming](,/1705646263761.jpg)
+
+
 
 - **Learn C++ Programming - Beginner to Advance- Deep Dive in C++** (30.5 hours)
 - **Learn JAVA Programming - Beginner to Master** (61.5 hours)
