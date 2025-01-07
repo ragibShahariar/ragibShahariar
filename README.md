@@ -16,12 +16,6 @@ I'm a dedicated Computer Science and Engineering student at <b>Daffodil Internat
   - Northern Institute of Science and Technology
   - GPA: 3.89/4.00
 
-
-- **Learn C++ Programming - Beginner to Advance- Deep Dive in C++** (30.5 hours)
-- **Learn JAVA Programming - Beginner to Master** (61.5 hours)
-- **Git & GitHub - The Practical Guide** (10.5 hours)
-- **Mastering Data Structures & Algorithms using C and C++** (58.5 hours)
-
 ### 💼 Skills
 - C/C++
 - Java
